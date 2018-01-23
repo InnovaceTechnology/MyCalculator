@@ -225,16 +225,7 @@
     </LinearLayout>
 
 
-<!--    <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/calcBtn"
-        android:src="@drawable/equal"
-        android:background="#00ffffff"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
-        android:paddingTop="30dp"
-        android:paddingRight="15dp"/>-->
+
 
 
     <ImageButton
